@@ -24,8 +24,8 @@ This Power BI project focuses on analyzing the sales data of Tesla cars in Swede
 
 2. Open the project in Power BI Desktop (make sure you have the latest version installed).
 
-3. Connect the project to the data source containing the Tesla sales data for January 2022.
+3. Explore the different report sections to gain insights into the sales analysis of Tesla cars in Sweden for January 2022.
 
-4. Refresh the data if needed, and the reports will automatically update with the latest information.
+## NOTE
 
-5. Explore the different report sections to gain insights into the sales analysis of Tesla cars in Sweden for January 2022.
+Data used in this dashboard is not factual data
