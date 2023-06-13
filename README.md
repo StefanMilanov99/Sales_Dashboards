@@ -2,6 +2,10 @@
 
 This Power BI project focuses on analyzing the sales data of Tesla cars in Sweden during the month of January 2022. The project explores various topics and provides insights into different aspects of the sales performance.
 
+![Screenshot 2023-06-14 000256](https://github.com/StefanMilanov99/Sales_Dashboards/assets/134857779/1d77c207-1a57-4684-8c3d-57c285b27eb1)
+
+
+
 ## Features
 
 1. **Car Sales by Model**: This report section presents the number of cars sold for each Tesla model in January 2022. It helps identify the popularity and demand for different models.
